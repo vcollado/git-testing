@@ -1,2 +1,2 @@
 # git-testing
-*first edit* second edit
+*first edit* second edit 4 edit
